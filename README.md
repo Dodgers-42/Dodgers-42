@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, this is everything that I have been working on 👋
 
 <!--
-**Dodgers-42/Dodgers-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
