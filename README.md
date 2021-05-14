@@ -1,6 +1,5 @@
 ### Hi there, this is everything that I have been working on 👋
 
-<!--
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... kevin.bing.barber@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Im and huge Dodgers and Browns fan
--->
+
